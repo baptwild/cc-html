@@ -1,0 +1,6 @@
+.accordion {
+    --bs-accordion-btn-color: #000000;
+    --bs-accordion-btn-bg: #328d18;
+    --bs-accordion-active-color: #000000;
+    --bs-accordion-active-bg: #11b978;
+}
